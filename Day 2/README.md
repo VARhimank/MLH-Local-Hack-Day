@@ -8,7 +8,7 @@
 <img src="https://github.com/VARhimank/MLH-Local-Hack-Day/blob/main/Day%202/Submission%205.png" width=50%>
 
 ### 3.Submission for Task : Create a Random Number Generator
-<a href="">Click here to go to code</a>
+- <a href="https://github.com/VARhimank/MLH-Local-Hack-Day/blob/main/Day%202/Randomnum.cpp">Click here to go to code</a> 
 
 ### 4.Submission for Task : Redesign Your Favorite Website
-<img src="https://github.com/VARhimank/MLH-Local-Hack-Day/blob/main/Day%202/Submission%207.png" width=50%>
+<img src="https://github.com/VARhimank/MLH-Local-Hack-Day/blob/main/Day%202/Submission%207.jpg" width=40%>
