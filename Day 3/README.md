@@ -5,7 +5,7 @@
 <img src="" width=50%>
 
 ### 2.Submission for Task : Design an Outfit for Ellie
-<img src="" width=50%>
+<img src="https://github.com/VARhimank/MLH-Local-Hack-Day/blob/main/Day%203/ELLIE.jpg" width=40%>
 
 ### 3.Submission for Task : Write Code to Sort a List
 - <a href="https://github.com/VARhimank/MLH-Local-Hack-Day/blob/main/Day%203/sortanarray.c">Click here to go to code</a> 
