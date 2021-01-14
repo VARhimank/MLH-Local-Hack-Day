@@ -10,5 +10,5 @@
 ### Submission for Task : Post about LHD on Socials [Repeatable!]
 <img src="https://github.com/VARhimank/MLH-Local-Hack-Day/blob/main/Week%20Long%20Challenges/ig-story-1.jpg" width=20%><img src="https://github.com/VARhimank/MLH-Local-Hack-Day/blob/main/Week%20Long%20Challenges/ig-story-2.jpg" width=20%>
 
-### Submission for Task : Follow MLH on Social Media
+### Submission for Task : Register for a Future “Hosted by MLH” Hackathon
 <img src="https://github.com/VARhimank/MLH-Local-Hack-Day/blob/main/Week%20Long%20Challenges/Registering%20for%20Hackathons.gif" width=60%>
