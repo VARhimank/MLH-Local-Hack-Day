@@ -14,4 +14,7 @@
 <img src="https://github.com/VARhimank/MLH-Local-Hack-Day/blob/main/Day%204/BOBROSSxELLIE.png" width=50%>
 
 ### 5.Submission for Task : Build a Team Within Your Guild
-<img src="" width=50%>
+<img src="https://github.com/VARhimank/MLH-Local-Hack-Day/blob/main/Day%204/Team.jpg" width=40%>
+
+### 6.Submission for Task : Explore a Buzzword topic
+- <a href="https://devpost.com/software/exploring-blockchain-buzzword">Click here to go to my Buzzword submission</a> 
