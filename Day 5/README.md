@@ -11,7 +11,7 @@
 - <a href="https://github.com/VARhimank/MLH-Local-Hack-Day/blob/main/Day%205/Helloworld.emojic">Click here to go to code</a> 
 
 ### 4.Submission for Task :Cup Stacking
-<img src="" width=50%>
+<img src="https://github.com/VARhimank/MLH-Local-Hack-Day/blob/main/Day%205/Cup-stacking.jpg" width=20%>
 
 ### 5.Submission for Task : Create a Video Teaching Other Hackers a Skill
 - <a href="https://youtu.be/kvKGsRCHsQQ">Click here to go to my video</a> 
