@@ -1,5 +1,5 @@
 # Weekend Challenges
-<img src="">
+<img src="https://github.com/VARhimank/MLH-Local-Hack-Day/blob/main/Weekend%20Challenges/head-wk16.png">
 
 ### 1.Submission for Task : Share a meal with someone not in your Guild
 <img src="" width=40%>
@@ -34,15 +34,3 @@
 ### 13.Submission for Task : Brag About Your Build
 
 ### 14.Submission for Task : Post a Picture with a Teammate
-
-### 15.Submission for Task : Create a Chat Bot
-
-### 16.Submission for Task : Create a Chat Bot
-
-### 17.Submission for Task : Create a Chat Bot
-
-### 18.Submission for Task : Create a Chat Bot
-
-### 19.Submission for Task : Create a Chat Bot
-
-### 20.Submission for Task : Create a Chat Bot
