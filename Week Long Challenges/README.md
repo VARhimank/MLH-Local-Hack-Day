@@ -12,3 +12,6 @@
 
 ### Submission for Task : Register for a Future “Hosted by MLH” Hackathon
 <img src="https://github.com/VARhimank/MLH-Local-Hack-Day/blob/main/Week%20Long%20Challenges/Registering%20for%20Hackathons.gif" width=60%>
+
+### Submission for Task : Design an MLH Season Mascot
+<img src="https://github.com/VARhimank/MLH-Local-Hack-Day/blob/main/Week%20Long%20Challenges/blahaj.png" width=40%>
