@@ -5,6 +5,16 @@ Local Hack Day: Build is a week-long celebration of building hacks both big and 
 
 `<link>` : <https://localhackday.mlh.io/build>
 
+## Results :trophy:
+
+I am updating this after a whole week of doing daily and weekly tasks. This was my first hackathon and I am really happy to show you the results
+
+##### Guild ranking [EquiCode]
+<img src="https://github.com/VARhimank/MLH-Local-Hack-Day/blob/main/res1.png" width=60%>
+
+##### My ranking [Himank7]
+<img src="https://github.com/VARhimank/MLH-Local-Hack-Day/blob/main/res2.png" width=40%>
+
 ## Authors :muscle:
 
 VARhimank <br>
